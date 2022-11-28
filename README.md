@@ -6,3 +6,5 @@ project we can interact with computer through sign language (Gestures).
 In the primary step system should detect the gesture, for detection purpose user may need either
 hand gloves or webcam (to capture the image). The visual based system model requires camera
 and an algorithm which helps user to control the volume.</b></i>
+
+![demo image](https://github.com/19PA1A0569/Volume-control-using-Hand-Gestures/blob/main/Screenshot%20(46).png)
